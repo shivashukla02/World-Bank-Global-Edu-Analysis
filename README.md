@@ -1,2 +1,2 @@
-# World-bank-Global-Edu--Analysis
+# World-Bank-Global-Edu--Analysis
 Analyzing the  data of  242 countries 
